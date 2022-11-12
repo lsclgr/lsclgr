@@ -1,4 +1,5 @@
 ### Hello world!!! 👋 I'm Luísa Calegari!
+##### Estudante de ciência da computação na UFOP - Universidade Federal de Ouro Preto
 <div align="center">
   <a href="https://github.com/lsclgr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lsclgr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
